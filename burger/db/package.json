@@ -1,0 +1,18 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "burger"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Hardin Ross",
+  "license": "UNLICENSED"
+}
